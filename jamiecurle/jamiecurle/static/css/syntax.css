@@ -1,5 +1,5 @@
 div.highlight{
-	color: #999;
+	color: #b3b3b3;
 	border-radius: 2px;
 	font-size: 1em;
 	word-wrap: break-word  !important;
@@ -23,7 +23,7 @@ pre{
 }
 
 .highlight .hll { background-color: #404040 }
-.highlight .c { color: #999999; font-style: italic } /* Comment */
+.highlight .c { color: #5e5e53; font-style: italic } /* Comment */
 .highlight .err { color: #fff;} /* Error */
 .highlight .g { color: #d0d0d0 } /* Generic */
 .highlight .k { color: #6ab825;  } /* Keyword */
